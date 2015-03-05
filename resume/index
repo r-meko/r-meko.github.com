@@ -1,0 +1,89 @@
+<!doctype HTML>
+<html>
+	<head>
+		<title>Raymond Pizarro &#124; 2015 Resum&eacute;</title>
+	</head>
+
+		<link type='text/css' href='files/_css/styles.css' rel='stylesheet'/>
+	
+		<body>
+				<div class='wrapper'>
+					<header>
+						<a href=''>
+							<h1 class='logo'> R</h1>
+						</a>
+
+						<div class='contact-info'>
+							<p>
+							<span class='bold'>Raymond Pizarro</span>
+							</p>
+							<p>
+								10 Pebble Lane<br/>
+								Cherry Hill, NJ 08002
+							</p>
+							<p class='email'>
+									<a href='mailto:rmcpizarro@gmail.com' target='_blank'>rmcpizarro@gmail.com</a>
+								</p>
+								<p>
+									<span class='italic'>609-634-9517</span> 
+								</p>
+						</div>
+								<a href='http://r-meko.github.com' target='_blank'>
+									<p class='website'>r-meko.gitbhub.com</p>
+								</a>
+					</header>
+					<div class='content'>
+							<div class='left-column'>
+									<div class='experience'>
+										<h2>Experience</h2>
+											<div class='employer'>
+												Trevor Phillips Industries &mdash; <span class='city'>Sandy Shores, SA</span>
+											</div>
+											<div class='description'>
+												<div class='role'>
+													Journeyman <span class='italic'> October 2013 &ndash; Present</span>
+												</div>
+													<P>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur
+													</p>
+												</div>
+											</div>
+
+											<div class='education'>
+												<h2>Education</h2>
+												<div class='school'> Camden County College &mdash; <span class='city'>Blackwood, NJ</span>
+												</div>
+												<div class='description'>
+													<p>Associates in Fine and Applied Arts, <span class='italics'>May 2013</span></p>
+													<p class='bold italic'> GPA 2.8</p>
+												</div>
+
+												<h3>Skillset</h3>
+												<ul class='skillset-left'>
+													<li>Illustration</li>
+													<li>Tradtional Animation</li>
+													<li>Subversive Marketing</li>
+												</ul>
+
+												<ul class='skillset-Right'>
+													<li>Adobe CC</li>
+													<li>HTML5 &amp; CSS3</li>
+													<li>OS X</li>
+												</ul>
+											</div>
+											<div class='right-column'>
+												<div class='affiliations'>
+													<h2>Affiliations</h2>
+													<p>Rutgers Art Student League</br>
+														<span class='italic'>October 2013 &ndash; Present</span>
+													</p>
+													<p>
+														Phillipine Folk Arts Society Incoporated</br>
+														<span class='italic'> May 2005 &ndash; June 2008</span>
+												</div>
+											</div>
+							</div>
+
+					</div>	
+		</body>
+
+</html>
