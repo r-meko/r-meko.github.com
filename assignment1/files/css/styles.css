@@ -31,8 +31,8 @@ header{
 */
 
 .logo{
-	margin-top: 100px;
-	margin:100px auto 75px auto;
+	padding-top: 100px;
+	/*margin:100px auto 75px auto;*/
 }
 
 .nav{
