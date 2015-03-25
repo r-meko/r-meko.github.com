@@ -101,5 +101,30 @@ h2 {
 
 
 /* Content */
+#content{
+  width: 940px;
+  background: #ffffff;
+  margin: 50px auto 0 auto;
+}
 
+.project{
+  width:220px;
+  height: 110px;
+  background: #cccccc;
+  color: #ffffff;
+  text-align:center;
+  line-height: 110px;
+  float:left;
+  margin-right:20px;
+  margin-bottom: 20px;
 
+}
+
+.last{
+  margin: 0;
+}
+
+.project:hover{
+  background: #eeeeee;
+  color: #aaaaaa;
+}

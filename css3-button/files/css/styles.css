@@ -72,3 +72,37 @@ h2 {
   width: 100%;
   margin: 200px;
 }
+
+.button{
+  width: 150px;
+  height: 50px;
+  display: block;
+  text-align: center;
+  line-height: 50px;
+  font-size: 14px;
+  font-weight: bold;
+  text-transform: uppercase;
+  float: left;
+  margin-right: 50px;
+}
+
+.one{
+   color: #14bdd1;
+   border:1px solid #14bbd1;
+   border-radius: 50px;
+   background: transparent;
+}
+  .one:hover{
+    color:#ffffff;
+    background: #14bdd1;
+  }
+
+  .two {
+    color: #ffffff;
+    background: #14bdd1;
+    border-radius:50px;
+  }
+    .two:hover {
+      background: #0a8b9a;
+      border-radius: 5px;
+    }
