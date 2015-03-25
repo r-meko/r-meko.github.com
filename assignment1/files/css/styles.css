@@ -18,8 +18,8 @@ header{
 	background: red;
 	border-bottom-color:blue;
 	border-bottom-style: solid;
-	border-bottom-width: 10px;
-	height: 350px;
+	/*border-bottom-width: 10px;
+	height: 350px;*/
 }
 
 /*
@@ -36,11 +36,12 @@ header{
 }
 
 .nav{
-	margin-bottom: 80px;
+	/*margin-bottom: 80px;*/
+;
 }
 .nav ul{
 list-style: none;
-display: inline-block;
+
 }
 
 .content{
