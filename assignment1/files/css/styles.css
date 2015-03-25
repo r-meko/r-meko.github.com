@@ -36,12 +36,13 @@ header{
 }
 
 .nav{
-	/*margin-bottom: 80px;*/
-;
-}
-.nav ul{
-list-style: none;
 
+margin-right: 50px;
+}
+.nav ul li{
+list-style: none;
+display: inline;
+line-height: 10px;
 }
 
 .content{
