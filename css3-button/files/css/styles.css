@@ -84,6 +84,7 @@ h2 {
   text-transform: uppercase;
   float: left;
   margin-right: 50px;
+  transition: all 200ms ease-in-out;
 }
 
 .one{
@@ -105,4 +106,14 @@ h2 {
     .two:hover {
       background: #0a8b9a;
       border-radius: 5px;
+    }
+  .three{
+    background: #14bdd1;
+    color: #ffffff;
+    border-radius: 5px;
+  }
+
+    .three:hover {
+      background: #44cddd;
+      box-shadow: 0 5px 20px #aaaaaa;
     }

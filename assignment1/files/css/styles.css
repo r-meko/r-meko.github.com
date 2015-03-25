@@ -22,33 +22,29 @@ header{
 	height: 350px;
 }
 
+/*
 .inner-wrapper{
   width:100px;
-  margin:0 auto;
+  margin:0 auto 0 auto;
 }
   
+*/
 
 .logo{
 	margin:100px auto 75px auto;
-	float:left;
 }
 
 .nav{
-	float: left;
+	margin-bottom: 80px;
 }
-	
 .nav ul{
-	list-style-type: none;
-	float:right;
+list-style: none;
+display: inline;
 }
 
-}
-.nav li{
-	display:inline;
-}
 .content{
 	width:75%;
-	box-sizing:border-box;
+	box-sizing: border-box;
 	margin: 0 auto 800px auto; 
 	padding: 15px;
 }
