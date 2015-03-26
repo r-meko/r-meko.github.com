@@ -15,7 +15,7 @@ a, a:visited {
 	text-decoration: none;
 }
 header{
-	background: red;
+	background: #f0f0f0;
 	border-bottom-color:blue;
 	border-bottom-style: solid;
 	/*border-bottom-width: 10px;
@@ -36,13 +36,18 @@ header{
 }
 
 .nav{
+	text-transform: uppercase;
+	margin-right: 50px;
+}
 
-margin-right: 50px;
+.nav li{
+	padding: auto 15px auto 15px; 
 }
 .nav ul li{
-list-style: none;
-display: inline;
-line-height: 10px;
+	list-style: none;
+	display: inline;
+	line-height: 100px;
+
 }
 
 .content{
@@ -86,7 +91,7 @@ line-height: 10px;
 }
 
 .bottom-logo{
-margin-top: 250px;
+margin-top: 300px;
 padding-top:75px;
 background:black;
 height:200px;
