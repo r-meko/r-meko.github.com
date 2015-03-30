@@ -1,9 +1,9 @@
 
-/*body, html {
+body, html {
   height: 100%;
   width: 100%;
 }
-*/
+
 body {
   background: #ffffff;
   font-family: Helvetica, Arial, sans-serif;
@@ -11,7 +11,7 @@ body {
   text-align: center;
 }
 
-a, a:visited {
+a, a :visited {
 	color: #222222;
 	text-decoration: none;
 }
@@ -37,13 +37,21 @@ header{
 	/*margin:100px auto 75px auto;*/
 }
 
-.nav{
-	text-transform: uppercase;
-	margin: 100px 200px auto 200px;
+.nav {
+	margin: 100px 300px 25px 300px;
 	border-top: 1px #c0c0c0 solid;
-
 }
 
+.nav a{
+	color: #222222;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 18px;
+}
+
+a:hover, #active a{
+	color:#e03d4e;
+}
 .nav li{
 	padding: 25px; 
 }
@@ -91,7 +99,7 @@ header{
 	float:left;
 	display:inline;
 	margin:auto 15px auto 15px;
-	border-top:;
+
 }
 .product p{
 	text-align:center;
