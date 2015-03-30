@@ -9,7 +9,7 @@ body {
   font-family: Helvetica, Arial, sans-serif;
   font-weight: normal;
   text-align: center;
-  line-height: 20px;
+  line-height: 25px;
 }
 
 a, a :visited {
@@ -27,12 +27,12 @@ header{
 
 .logo{
 	padding-top: 100px;
-	padding-bottom: 100px:;
-
+	padding-bottom: 200px:;
+	margin-bottom:100px;
 }
 
 .nav {
-	margin: 100px 500px 25px 500px;
+	margin: 10px 600px 0px 600px;
 	border-top: 1px #c0c0c0 solid;
 	padding-right: 100px;
 }
