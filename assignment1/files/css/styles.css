@@ -38,8 +38,9 @@ header{
 }
 
 .nav {
-	margin: 100px 300px 25px 300px;
+	margin: 100px 500px 25px 500px;
 	border-top: 1px #c0c0c0 solid;
+	padding-right: 100px;
 }
 
 .nav a{
@@ -71,7 +72,7 @@ a:hover, #active a{
 
 .content a{
 	color: #e03d43;
-
+	font-weight: bold;
 }
 
 .content ul{
@@ -105,10 +106,9 @@ a:hover, #active a{
 	text-align:center;
 	font-size: 15px;
 	width:300px;
+	margin-bottom: 10%;
 }
-.product img{
-/*width:200px;*/
-}
+
 
 .bottom-logo{
 margin-top: 300px;
