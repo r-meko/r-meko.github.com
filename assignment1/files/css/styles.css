@@ -16,7 +16,7 @@ a, a:visited {
 }
 header{
 	background: #f0f0f0;
-	border-bottom-color:blue;
+	border-bottom-color: #e03d4e;
 	border-bottom-style: solid;
 	/*border-bottom-width: 10px;
 	height: 350px;*/
@@ -94,9 +94,9 @@ header{
 .bottom-logo{
 margin-top: 300px;
 padding-top:75px;
-background:black;
+background: #222222;
 height:200px;
 border-top-width: 15px;
 border-top-style:solid;
-border-top-color:red;
+border-top-color:#e03d4e;
 }
