@@ -111,8 +111,7 @@ a:hover, #active a{
 margin-top: 300px;
 padding-top:75px;
 background: #222222;
-height:200px;
-border-top-width: 15px;
+height:200px;;
 border-top-style:solid;
 border-top-color:#e03d4e;
 }
