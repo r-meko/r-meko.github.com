@@ -33,6 +33,7 @@ header{
 .nav {
 	margin: 0px 480px 0px 480px;
 	border-top: 1px #c0c0c0 solid;
+	padding-right: 100px;
 }
 
 .nav a{
