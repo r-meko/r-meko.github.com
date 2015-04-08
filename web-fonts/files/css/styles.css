@@ -93,3 +93,31 @@ h2 {
   #right-column {
     margin-right: 0%;
   }
+
+
+.left-header{
+  font-family: 'Playfair Display', serif;
+  font-size: 40px;
+  font-weight: 300;
+  margin-bottom:20px;
+}
+
+#left-column p {
+  font-family: 'PT Serif', serif;
+  text-align: justify;
+
+}
+
+.right-header {
+  font-family:'Open Sans', sans-serif;
+  font-size: 40px;
+  font-weight:300;
+  margin-bottom: 20px;
+}
+
+#right-column p {
+  font-family:'Open Sans', sans-serif;
+  font-weight: 400;
+}
+
+/*save damnit*/
