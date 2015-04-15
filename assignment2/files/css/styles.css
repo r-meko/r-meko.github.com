@@ -3,3 +3,10 @@
 	list-style: none;
 	display: inline;
 }
+
+.Home {
+	display: block;
+	width: 250px;
+	height: 100px;
+	background: 'files/img/button template.jpg';
+}
