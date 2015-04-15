@@ -1,10 +1,15 @@
 /* Navigation*/
 .nav ul li{
 	list-style: none;
-	display: inline;
+	display: inline-block;
+	margin: 35px 50px 10px 50px;
 }
 
-.home {
+.nav{
+	text-align: center;
+}
+
+#home {
 	display: block;
 	width: 250px;
 	height: 100px;
@@ -15,10 +20,67 @@
 	font-size: 0px;
 }
 
-.home:hover {
+#home:hover {
 	background-position: 0 -100px;
 }
 
-.home:active {
+#home:active {
+	background-position: 0 -200px;
+}
+
+#work {
+	display: block;
+	width: 250px;
+	height: 100px;
+	background-image: url("../img/button_template.jpg");
+	background-position: 0 0;
+	text-indent: -15000px;
+	line-height: 0px;
+	font-size: 0px;
+}
+
+#work:hover {
+	background-position: 0 -100px;
+}
+
+#work:active {
+	background-position: 0 -200px;
+}
+
+#about {
+	display: block;
+	width: 250px;
+	height: 100px;
+	background-image: url("../img/button_template.jpg");
+	background-position: 0 0;
+	text-indent: -15000px;
+	line-height: 0px;
+	font-size: 0px;
+}
+
+#about:hover {
+	background-position: 0 -100px;
+}
+
+#about:active {
+	background-position: 0 -200px;
+}
+
+#contact {
+	display: block;
+	width: 250px;
+	height: 100px;
+	background-image: url("../img/button_template.jpg");
+	background-position: 0 0;
+	text-indent: -15000px;
+	line-height: 0px;
+	font-size: 0px;
+}
+
+#contact:hover {
+	background-position: 0 -100px;
+}
+
+#contact:active {
 	background-position: 0 -200px;
 }
