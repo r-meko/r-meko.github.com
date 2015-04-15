@@ -4,20 +4,17 @@
 		<link type="text/css" rel="stylesheet" href="files/css/styles.css" />
 	</head>
 	<body>
-
-<!--Navigation Bar -->
-
 		<header>
 			<div class='nav'>
 				<ul>
 					<li>
-						<a href='index.html' id='home'></a>
+						<a href='' id='home'></a>
 					</li>
 					<li>
 						<a href='' id='work'> </a>
 					</li>
 					<li>
-						<a href='about.html' id='about'></a>
+						<a href='' id='about'></a>
 					</li>
 					<li>
 						<a href='' id='contact'></a>
@@ -26,8 +23,6 @@
 			</div>
 		</header>
 			
-<!-- Navigation Bar End-->
-
 			</span>
 	</body>
 	
