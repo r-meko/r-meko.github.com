@@ -4,9 +4,21 @@
 	display: inline;
 }
 
-.Home {
+.home {
 	display: block;
 	width: 250px;
 	height: 100px;
-	background: 'files/img/button template.jpg';
+	background-image: url("../img/button_template.jpg");
+	background-position: 0 0;
+	text-indent: -15000px;
+	line-height: 0px;
+	font-size: 0px;
+}
+
+.home:hover {
+	background-position: 0 -100px;
+}
+
+.home:active {
+	background-position: 0 -200px;
 }
