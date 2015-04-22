@@ -1,8 +1,19 @@
+/* 
+#021a25
+
+
+*/
+
+body {
+
+	background-image: url("../img/backgrund.jpg");
+}
+
 /* Navigation*/
 .nav ul li{
 	list-style: none;
 	display: inline-block;
-	margin: 35px 50px 10px 50px;
+	margin: 50px 50px 10px 50px;
 }
 
 .nav{
@@ -85,3 +96,9 @@
 	background-position: 0 -200px;
 }
 /* Navigation End */
+
+.content {
+
+	margin: auto 5% auto 5%;
+	background-color: #021a25;
+}
