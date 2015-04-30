@@ -1,6 +1,8 @@
 /* 
+Black
 #243238
-
+Active links
+#d21c5e
 
 */
 
@@ -13,7 +15,7 @@ body {
 .nav ul li{
 	list-style: none;
 	display: inline-block;
-	margin: 50px 50px 10px 50px;
+	margin: 50px 50px 50px 50px;
 }
 
 .nav{
@@ -59,6 +61,21 @@ body {
 	background-position: 300px -200px;
 }
 
+#work-on {
+	display: block;
+	width: 150px;
+	height: 100px;
+	background-image: url("../img/nav_buttons.png");
+	background-position: 300px -100px;
+	text-indent: -15000px;
+	line-height: 0px;
+	font-size: 0px;
+}
+
+#work-on:active {
+	background-position: 300px -200px;
+}
+
 #about {
 	display: block;
 	width: 150px;
@@ -76,6 +93,21 @@ body {
 
 #about:active {
 	background-position: 0px -200px;
+}
+
+#about-on {
+	display: block;
+	width: 150px;
+	height: 100px;
+	background-image: url("../img/nav_buttons.png");
+	background-position: 0px -100px;
+	text-indent: -15000px;
+	line-height: 0px;
+	font-size: 0px;
+}
+
+#about-on:active {
+	background-position: 0px -200px
 }
 
 #contact {
@@ -96,13 +128,28 @@ body {
 #contact:active {
 	background-position: 150px -200px;
 }
-/* Navigation End */
+
+#contact-on {
+	display: block;
+	width: 150px;
+	height: 100px;
+	background-image: url("../img/nav_buttons.png");
+	background-position: 150px -100px;
+	text-indent: -15000px;
+	line-height: 0px;
+	font-size: 0px;
+}
+
+#contact-on:active {
+	background-position: 150px -200px;
+}
+
+/* About Page */
 
 .content {
 	text-align: center;
 	display: inline;
-	margin: 5px 10%
-	 auto 0;
+	margin: 50px 10 auto 0;
 }
 
 .content p {
@@ -116,9 +163,9 @@ body {
 
 .right {
 	width: 450px;
-	margin-top: 50px;
+	margin-top: 100px;
 	margin-right:100px;
-	margin-left:800px;
+	margin-left:850px;
 }
 
 .left {
@@ -171,12 +218,13 @@ body {
 
   /* Contact */
 
-  .contact {
-  	margin-left: 20%;
-  	text-align: justify;
-  }
+.contact-info{
+	text-align: left;
+	margin-top: 100px;
+	margin-left: 20%;
+}
 
-  .email a{
-
-  	text-decoration: none;
-  }
+.email a{
+	color: #d21c5e;
+	text-decoration: none;
+}
