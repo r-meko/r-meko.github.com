@@ -219,8 +219,10 @@ body {
   /* Contact */
 
 .contact-info{
+	font-family: sans-serif, Arial, Helvetica;
+	font-size: 22px;
 	text-align: left;
-	margin-top: 100px;
+	margin-top: 150px;
 	margin-left: 20%;
 }
 
