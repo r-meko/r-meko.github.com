@@ -42,59 +42,59 @@ body {
 
 #work {
 	display: block;
-	width: 250px;
+	width: 150px;
 	height: 100px;
-	background-image: url("../img/button_template.jpg");
-	background-position: 0 0;
+	background-image: url("../img/nav_buttons.png");
+	background-position: 300px 0px;
 	text-indent: -15000px;
 	line-height: 0px;
 	font-size: 0px;
 }
 
 #work:hover {
-	background-position: 0 -100px;
+	background-position: 300px -100px;
 }
 
 #work:active {
-	background-position: 0 -200px;
+	background-position: 300px -200px;
 }
 
 #about {
 	display: block;
-	width: 250px;
+	width: 150px;
 	height: 100px;
-	background-image: url("../img/button_template.jpg");
-	background-position: 0 0;
+	background-image: url("../img/nav_buttons.png");
+	background-position: 0px 0px;
 	text-indent: -15000px;
 	line-height: 0px;
 	font-size: 0px;
 }
 
 #about:hover {
-	background-position: 0 -100px;
+	background-position: 0px -100px;
 }
 
 #about:active {
-	background-position: 0 -200px;
+	background-position: 0px -200px;
 }
 
 #contact {
 	display: block;
-	width: 250px;
+	width: 150px;
 	height: 100px;
-	background-image: url("../img/button_template.jpg");
-	background-position: 0 0;
+	background-image: url("../img/nav_buttons.png");
+	background-position: 150px 0px;
 	text-indent: -15000px;
 	line-height: 0px;
 	font-size: 0px;
 }
 
 #contact:hover {
-	background-position: 0 -100px;
+	background-position: 150px -100px;
 }
 
 #contact:active {
-	background-position: 0 -200px;
+	background-position: 150px -200px;
 }
 /* Navigation End */
 
@@ -123,5 +123,5 @@ body {
 	float:left;
 	width: 500px;
 	margin-left: 100px;
-	margin-right: 50px;
+	margin-right: 10%;
 }
