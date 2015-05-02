@@ -218,15 +218,21 @@ body {
 
   /* Contact */
 
-.contact-info{
+.contact-info {
+	float:left;
 	font-family: sans-serif, Arial, Helvetica;
 	font-size: 22px;
 	text-align: left;
 	margin-top: 150px;
-	margin-left: 20%;
+	margin-left: 25%;
 }
 
 .email a{
 	color: #d21c5e;
 	text-decoration: none;
+}
+
+#contact_image {
+	float:right;
+	margin-right: 150px;
 }
